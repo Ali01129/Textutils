@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Ali01129.github.io/Textutils",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -15,8 +14,6 @@
     "webpack": "^5.88.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
